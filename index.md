@@ -2,4 +2,4 @@
 
 [About](https://dtxiong.github.io/Portfolio/about)
 
-[Week 1](https://dtxiong.github.io/Portfolio/week1/week1)
+[Coherent Line Drawings](https://dtxiong.github.io/Portfolio/CoherentLineDrawings)
